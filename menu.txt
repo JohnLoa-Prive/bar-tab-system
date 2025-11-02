@@ -1,0 +1,3 @@
+Beer,Beer,2.00
+Cola,Refreshments,1.75
+Spa-Rood,Refreshments,1.15
